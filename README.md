@@ -4,7 +4,7 @@
 
 No runtime errors (1)
 
-3 imported models, including player model (2)
+4 imported models, including player model (2)
 
 Camera follows player (1)
 
